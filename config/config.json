@@ -1,12 +1,12 @@
 {
     "siteURL" : "http://www.decathlon.pl",
-    "decapromolistDir" : "/path/to/project",
+    "decapromolistDir" : "../decapromolist/decapromolist/",
     "subcatFile" : "../category/subcat.json",
     "productFile" : "../product/product.json",
     "decapromolistFile" : "../decapromolist/decapromolist.json",
     "decapromolistMDFile" : "../decapromolist/decapromolist.md",
     "host" : "localhost",
-    "user" : "username",
-    "passwd" : "password",
+    "user" : "eminaest",
+    "passwd" : "adventhash",
     "dbname" : "database_name"
 }
