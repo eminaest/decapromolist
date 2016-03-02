@@ -8,5 +8,5 @@
     "host" : "localhost",
     "user" : "eminaest",
     "passwd" : "adventhash",
-    "dbname" : "database_name"
+    "dbname" : "decapromolist.json"
 }
